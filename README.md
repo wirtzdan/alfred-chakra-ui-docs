@@ -2,9 +2,9 @@
 
 A Chakra UI docs search workflow for Alfred 4.
 
-Adapted from [Alfred TailwindCSS Docs](https://github.com/clnt/alfred-tailwindcss-docs), which is adapted itself from the [Alfred VueJS Docs](https://github.com/vmitchell85/alfred-vuejs-docs) and [Alfred Laravel Docs](https://github.com/tillkruss/alfred-laravel-docs).
+![Demo](demo.gif)
 
-![Screenshot](screenshot.jpg)
+Adapted from [Alfred TailwindCSS Docs](https://github.com/clnt/alfred-tailwindcss-docs), which is adapted itself from the [Alfred VueJS Docs](https://github.com/vmitchell85/alfred-vuejs-docs) and [Alfred Laravel Docs](https://github.com/tillkruss/alfred-laravel-docs).
 
 ## Installation
 
