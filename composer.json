@@ -1,6 +1,6 @@
 {
   "name": "wirtzdan/alfred-chakra-ui-docs",
-  "description": "An Chakra UI docs search workflow for Alfred 4.",
+  "description": "Chakra UI docs search workflow for Alfred 4.",
   "version": "1.0.0",
   "keywords": [
     "alfred",
